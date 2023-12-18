@@ -1,4 +1,4 @@
-## Repository containing scripts and materials related to the manuscript titled: Genome assemblies of two species of porcelain crab, Petrolisthes cinctipes and Petrolisthes manimaculis (Anomura: Porcellanidae).
+## Repository containing scripts and materials related to the [manuscript](https://doi.org/10.1093/g3journal/jkad281) titled: Genome assemblies of two species of porcelain crab, Petrolisthes cinctipes and Petrolisthes manimaculis (Anomura: Porcellanidae).
 
 
 ### Abstract
